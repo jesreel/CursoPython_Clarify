@@ -24,7 +24,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
       <img src="docs/img/prof.jpg" alt="Foto do Instrutor" width="60">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <strong>Caio Comitre Ross</strong><br>
+      <strong>Caio Comitre Rossi</strong><br>
       <a href="https://github.com/caioross">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
