@@ -99,7 +99,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
 <br>
 
 
-## Aulas
+## Arquivos das Aulas
 
 📘 [Apostila do Curso](docs/ApostilaPython.pdf)  
 📦 [Arquivos do Curso](docs/arquivos_curso_python.zip)  
