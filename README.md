@@ -42,21 +42,21 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
     <td align="center">
       <img src="docs/img/fem.png" alt="Foto Alice" width="50"><br>
       <strong>Alice</strong><br>
-      <a href="#">
+      <a href="https://github.com/alicegpierce">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
     </td>
     <td align="center">
       <img src="docs/img/fem.png" alt="Foto Andressa" width="50"><br>
       <strong>Andressa</strong><br>
-      <a href="#">
+      <a href="https://github.com/Andressa202">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
     </td>
     <td align="center">
       <img src="docs/img/masc.png" alt="Foto Davi" width="50"><br>
       <strong>Davi</strong><br>
-      <a href="#">
+      <a href="https://github.com/Davipereiraaz">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
     </td>
@@ -70,7 +70,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
     <td align="center">
       <img src="docs/img/fem.png" alt="Foto Eloara" width="50"><br>
       <strong>Eloara</strong><br>
-      <a href="#">
+      <a href="https://github.com/eloaranathane">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
     </td>
