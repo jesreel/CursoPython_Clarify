@@ -63,7 +63,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
     <td align="center">
       <img src="docs/img/fem.png" alt="Foto Emily" width="50"><br>
       <strong>Emily</strong><br>
-      <a href="#">
+      <a href="https://github.com/basiqly">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
     </td>
