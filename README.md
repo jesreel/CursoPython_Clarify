@@ -140,6 +140,10 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   📄 [api_flask.py](aula04/api_flask.py)  
   📄 [api_ibge.py](aula04/api_ibge.py)    
   📄 [api_final.py](aula04/api_final.py)  
-  📄 [arquivox.py](aula04/arquivox.py)
+  📄 [tetes_unitarios.py](aula04/testes_unitarios.py)       
+  📄 [meu_modulo.py](aula04/meu_modulo.py)        
+  📄 [usar_modulo.py](aula04/usar_modulo.py)       
+  📄 [crud_sqlite.py](aula04/crud_sqlite.py)  
+  
   
     
