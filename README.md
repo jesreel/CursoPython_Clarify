@@ -13,6 +13,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   </a>
 </p>
 
+<br>
 
 
 ## Instrutor
@@ -20,7 +21,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
 <table>
   <tr>
     <td>
-      <img src="doscs/img/prof.jpg" alt="Foto do Instrutor" width="60">
+      <img src="docs/img/prof.jpg" alt="Foto do Instrutor" width="60">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <strong>Caio Comitre Ross</strong><br>
@@ -31,6 +32,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   </tr>
 </table>
 
+<br>
 
 
 ## Turma
@@ -82,6 +84,8 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   </tr>
 </table>
 
+<br>
+
 
 ## Conteúdo Programático
 - [x] Introdução
@@ -92,17 +96,21 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
 - [x] Módulo 5 - Automatizando a Geração de Documentos
 - [x] Módulo 6 - Orientação à Objetos e Testes Unitários
 
+<br>
+
 
 ## Aulas
 
 📘 [Apostila do Curso](docs/ApostilaPython.pdf)  
 📦 [Arquivos do Curso](docs/arquivos_curso_python.zip)  
+<br>
 
 📁 [Aula01 - 14/07/2025](aula01/)  
   📄 [introducao.py](aula01/introducao.py)  
   📄 [formatos.py](aula01/formatos.py)  
   📄 [tipificacao.py](aula01/tipificacao.py)  
   📄 [escola.py](aula01/escola.py)  
+<br>
 
 📁 [Aula02 - 15/07/2025](Aula02/)  
   📄 [loopings.py](aula02/loopings.py)  
@@ -110,7 +118,9 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   📄 [exercicio_idade.py](aula02/exercicio_idade.py)  
   📄 [calculadora.py](aula02/calculadora.py)   
   📄 [jogo_adivinhacao.py](aula02/jogo_adivinhacao.py)   
-  📄 [consulta_api.py](aula02/consulta_api.py) 
+  📄 [consulta_api.py](aula02/consulta_api.py)  
+  
+<br>
 
 📁 [Aula03 - 16/07/2025](aula03/)  
   📄 [consulta_api2.py](aula03/consuta_api2.py)  
@@ -120,6 +130,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   📄 [calculadora_imposto_renda_poo.py](aula03/calculadora_imposto_renda_poo.py)   
   📄 [calculadora_args.py](aula03/calculadora_args.py)    
   📄 [crud_sqlite.py](aula03/crud_sqlite.py)  
+<br>
 
 📁 [Aula04 - 17/07/2025](aula04/)  
   📄 [arquivo1.py](aula04/arquivo1.py)    
