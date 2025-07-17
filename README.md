@@ -145,7 +145,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   📄 [meu_modulo.py](aula04/meu_modulo.py)        
   📄 [usar_modulo.py](aula04/usar_modulo.py)       
   📄 [usando_numpy.py](aula04/usando_numpy.py)          
-  📄 [usar_teste_unitario.py](aula04/usar_teste_unitario.py)         
+  📄 [graficos.py](aula04/graficos.py)         
   📄 [usar_teste_unitario.py](aula04/usar_teste_unitario.py)
   
   
