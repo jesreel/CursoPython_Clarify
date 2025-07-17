@@ -143,7 +143,7 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
   📄 [tetes_unitarios.py](aula04/testes_unitarios.py)       
   📄 [meu_modulo.py](aula04/meu_modulo.py)        
   📄 [usar_modulo.py](aula04/usar_modulo.py)       
-  📄 [crud_sqlite.py](aula04/crud_sqlite.py)  
+  📄 [usar_teste_unitario.py](aula04/usar_teste_unitario.py)  
   
   
     
