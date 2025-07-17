@@ -28,11 +28,15 @@ Aulas de 14/07/2025 a 17/07/2025. Carga horária de 32h
       <a href="https://github.com/caioross">
         <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
       </a>
+      <a href="https://discord.com/login">
+        <img  src="https://img.shields.io/discord/:serverId" alt="Discord"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
+
 
 
 ## Turma
